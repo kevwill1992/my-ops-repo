@@ -1,5 +1,8 @@
 # Reading 2
 
+## Why this topic matters
+Building 
+
 1. Which is better in a CPU, more cores or higher speed? Under which circumstances is that true? How many CPU cores does a computer need? If you're building a high-end gaming PC, the more cores are better and you should stay around six cores. Higher speed is better if you want to process data faster.
 2. What details are you looking for when finding a motherboard which fits your processor? Checking the sock of the CPU and motherboard, onboard Wi-Fi, Bluetooth, multiple RAM slots/high RAM capacity, support for graphics
 3. What are the tradeoffs you’d evaluate while selecting a storage device? Physical size of the hard drive to ensure that it fits in your case so possibly using an M.2 drive instead of HDD. Price is another trade-off, so depending on your budget, possibly going with and SDD instead of an M.2 drive. 
