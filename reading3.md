@@ -1,4 +1,4 @@
-#Reading 3
+# Reading 3
 
 1. What is the BIOS? The Basic Input/Output System is a program that loads the operating system when the computer is powered on. It's responsible for initializing and configuring various hardware compontents during the boot process. 
 
