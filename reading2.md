@@ -1,7 +1,7 @@
 # Reading 2
 
 ## Why this topic matters
-Building 
+Building a computer can alot more cost-effective than buying a pre-built desktop or gaming laptop depending on your needs. Extensive researching and proper budgeting can save you some money in the long term as well as having the freedom to customize and optimize your computer the way you want. 
 
 1. Which is better in a CPU, more cores or higher speed? Under which circumstances is that true? How many CPU cores does a computer need? If you're building a high-end gaming PC, the more cores are better and you should stay around six cores. Higher speed is better if you want to process data faster.
 2. What details are you looking for when finding a motherboard which fits your processor? Checking the sock of the CPU and motherboard, onboard Wi-Fi, Bluetooth, multiple RAM slots/high RAM capacity, support for graphics
