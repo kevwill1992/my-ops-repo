@@ -1,5 +1,6 @@
 # Reading 1
-### Why this topic matter This importance of this topic revolves around the risks of our adversaries being able to take full advantage of our weaknesses and not having any idea that it's happening. 
+### Why this topic matters and how it relates to what I'm studying
+The importance of this topic revolves around the risks of our adversaries being able to take full advantage of our weaknesses and not having any idea that it's happening. 
 
 1. How is a hardware hack different than a software hack? A hardware hack is the exploitation of the phycial components of a device. A software hack is the exploitation of security within the operating system of a device.
 2. What are the two ways for spies to alter a computer’s hardware? Interdiction and Seeding
