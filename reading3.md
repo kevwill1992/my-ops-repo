@@ -1,4 +1,6 @@
 # Reading 3
+## Why this topic matters
+The BIOS can be found in every computer system so having a firm understanding as how to access, navigate, and troubleshoot issues with the operating system and hardware is essential. 
 
 1. What is the BIOS? The Basic Input/Output System is a program that loads the operating system when the computer is powered on. It's responsible for initializing and configuring various hardware compontents during the boot process. 
 
