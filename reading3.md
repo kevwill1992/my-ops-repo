@@ -13,3 +13,11 @@ The BIOS can be found in every computer system so having a firm understanding as
 4. What is the CMOS? The CMOS is used to store critical data used by the operating system during the booting process.
 
 5. What is the CMOS  battery? The CMOS battery is used to supply power to the CMOS RAM which stores user settings and other data required during the booting process. 
+
+## Things I want to know more about
+
+1. What can you do if you're unable to access the BIOS?
+
+## Resources
+
+https://www.learncomputerscienceonline.com/bios/
