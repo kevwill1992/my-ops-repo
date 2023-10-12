@@ -16,6 +16,9 @@ It is the graphical display of the activities and applications within GNOME.
 4. How do I install software from the command line?
 By using "apt install" along with the name of the software in the command line, you'll be able to install software on Ubuntu.
 
+## Things I want to know more about
+How many Linux-based operating systems exist?
+
 ## Resources
 1. https://web.archive.org/web/20220312030901/https://www.lifewire.com/beginners-guide-to-ubuntu-2205722
 2. https://chat.openai.com/share/b708c92b-3f52-42d7-868a-d772198262f5
