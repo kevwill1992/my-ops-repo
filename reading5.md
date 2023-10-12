@@ -1,7 +1,7 @@
 # Reading 5
 
 ## Why this topic matters
-
+Familiarization with terminals and commands can be very helpful when faced with situations where you may not have access to a mouse which can be commonplace. 
 
 ## Questions
 
