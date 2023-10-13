@@ -1,7 +1,7 @@
 # Reading 7
 
 ## Why this topic matters
-
+As a cybersecurity professional, tranferring files between systems in an secure and safe manner for companies is extremely important.  
 
 ## Questions
 
@@ -18,23 +18,30 @@ The protocol works in the client-server model, which means that the connection i
 
 
 4. How is the data kept safe when transmitted between the SSH client and server?
-
+Data transmitted between the SSH client and server is kept safe through a combination of encryption and cryptographic techniques.
 
 5. What is SFTP?
-
+Secure File Transfer Protocol and it is a network protocol that provides a secure way to transfer files between a client and a server over a network. It is often used when managing remote servers or transferring sensitive files.
 
 ### RDP
 
 1. What is Windows Remote Desktop Connection?
+Gives users the ability to connect to a remote Windows PC or server over the internet or on a local network, giving them full access to the tools and software installed on it
 
 2. What is RDP?
+The Remote Desktop Protocol allows remote users to see and use Windows on a device in another location.
 
 
 3. What is the RDP port number?
-
+3389
 
 
 ## Things I want to know more about
 
+Are newer protocols being developed?
 
 ## Resources
+
+https://chat.openai.com/share/35b529a6-1a78-4799-a249-001708098807
+https://www.comparitech.com/net-admin/what-is-rdp/
+https://www.ssh.com/academy/ssh/protocol
