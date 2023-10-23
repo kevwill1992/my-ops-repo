@@ -1,6 +1,6 @@
 # my-ops-repo
 
-#Reading Notes
+# Reading Notes
 
 ##Ops 102: Intro to Computer Operations 
 
