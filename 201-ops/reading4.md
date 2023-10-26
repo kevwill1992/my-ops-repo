@@ -6,11 +6,11 @@ Troubleshooting is a fundamental process that plays a critical role in maintaini
 ## Questions
 1. What should you do if multiple issues are happening simultaneously during troubleshooting?
 
-The issues should be broken up into smaller sections then proceed with troubleshooting them individually. 
+The issues should be broken up into smaller sections then proceed with troubleshooting them individually. (Professor Messer)
 
 2. What should be done once a successful solution has been identified during the troubleshooting process?
 
-You should create a plan of action before implementing the solution.
+You should create a plan of action before implementing the solution. (Professor Messer)
 
 3. What are the benefits of documenting the entire troubleshooting process in a knowledge base?
 
