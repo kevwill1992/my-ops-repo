@@ -1,4 +1,4 @@
-Reading: Strategic Policy Development
+# Reading: Strategic Policy Development
 
 1. How would you convince your future company to pursue SOC2 compliance?
 
@@ -24,3 +24,7 @@ Analogy: Now that you have your ground rules in place, you need to make sure eve
 SOC2 Top Layer - Monitoring and Enforcement:
 
 Analogy: During the party, you need to keep an eye on things to make sure everything is going according to plan. This is similar to having security guards and hosts who monitor the guests and enforce the rules. If someone is causing trouble or violating the policies, they need to be addressed. Monitoring and enforcement ensure that your party stays secure and enjoyable for everyone.
+
+## Things I want to know more about:
+
+How long does it take to put together a SOC 2 for a company?
